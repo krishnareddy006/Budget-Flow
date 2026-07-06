@@ -66,7 +66,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <a
-                                    href="https://github.com/SAMARTH-MUKTAMATH"
+                                    href="https://github.com/krishnareddy006"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="hover:text-[#89E900]"
@@ -89,7 +89,7 @@ const Footer = () => {
                         <h4 className="text-sm font-semibold text-white mb-3">Connect</h4>
                         <div className="flex items-center gap-3">
                             <a
-                                href="https://github.com/SAMARTH-MUKTAMATH"
+                                href="https://github.com/krishnareddy006"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="h-9 w-9 rounded-lg border border-white/10 bg-white/5 flex items-center justify-center text-gray-300 hover:text-[#89E900] hover:border-[#89E900]/40 transition-colors"
@@ -120,12 +120,12 @@ const Footer = () => {
                     <p>
                         Made with 💗 by{" "}
                         <a
-                            href="https://github.com/SAMARTH-MUKTAMATH"
+                            href="https://github.com/krishnareddy006"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-[#89E900] hover:underline font-medium"
                         >
-                            Samarth Muktamath
+                            Budget Flow
                         </a>
                     </p>
                 </div>
